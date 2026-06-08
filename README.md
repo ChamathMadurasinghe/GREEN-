@@ -10,7 +10,7 @@ A Sri Lankan B2B marketplace for fresh produce and meat products.
 - Inventory Management
 - Secure Payments
 
-## Technology Stack
+## Technology Stack(PLANED)
 - React.js
 - Node.js
 - PostgreSQL
